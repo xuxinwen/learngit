@@ -1,2 +1,5 @@
 hello 
 i learn git
+
+i like c
+i like python too
